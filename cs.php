@@ -8,3 +8,5 @@
  * @version 1.0
  */
 echo crypt('adminadmin');
+
+echo '222';
